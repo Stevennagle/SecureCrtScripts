@@ -1,1 +1,2 @@
-# SecureCRT-Scripts
+# SecureCrtScripts
+My SecureCRT toolbox
